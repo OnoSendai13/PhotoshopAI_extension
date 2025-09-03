@@ -55,7 +55,7 @@ Download HTML file, open it with any browser, follow instructions
 ## 🚀 Quick Start
 
 1. Download the HTML file from releases
-2. Open `photoshop-ai-extension.html` in your browser
+2. Open `guide_extension_photoshop_ia.html` in your browser
 3. Follow the step-by-step installation guide
 4. Configure your API keys
 5. Start editing with AI!
